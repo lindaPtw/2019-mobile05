@@ -21,4 +21,9 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
+    public void handlerClickDynamicFragment(View view) {
+    }
+
+    public void handlerClickPraktikumFragment(View view) {
+    }
 }
